@@ -9,3 +9,5 @@ Also there is service call to show how mvc pattern works.
 	maven install
 
 	Then install the war file to any web container such as tomcat.
+	
+	You can see your application at /EmployeeServlet and /ControllerServlet
